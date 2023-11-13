@@ -1,0 +1,596 @@
+[
+    {
+        "No": "1.",
+        "Province": "Aceh",
+        "City": "Banda Aceh",
+        "Region": "Sumatra"
+    },
+    {
+        "No": "2.",
+        "Province": "Aceh",
+        "City": "Langsa",
+        "Region": "Sumatra"
+    },
+    {
+        "No": "3.",
+        "Province": "Aceh",
+        "City": "Lhokseumawe",
+        "Region": "Sumatra"
+    },
+    {
+        "No": "4.",
+        "Province": "Aceh",
+        "City": "Sabang",
+        "Region": "Sumatra"
+    },
+    {
+        "No": "5.",
+        "Province": "Aceh",
+        "City": "Subulussalam",
+        "Region": "Sumatra"
+    },
+    {
+        "No": "6.",
+        "Province": "Bali",
+        "City": "Denpasar",
+        "Region": "Bali dan Nusa Tenggara"
+    },
+    {
+        "No": "7.",
+        "Province": "Bangka Belitung",
+        "City": "Pangkalpinang",
+        "Region": "Sumatra"
+    },
+    {
+        "No": "8.",
+        "Province": "Banten",
+        "City": "Cilegon",
+        "Region": "Jawa"
+    },
+    {
+        "No": "9.",
+        "Province": "Banten",
+        "City": "Serang",
+        "Region": "Jawa"
+    },
+    {
+        "No": "10.",
+        "Province": "Banten",
+        "City": "Tangerang Selatan",
+        "Region": "Jawa"
+    },
+    {
+        "No": "11.",
+        "Province": "Banten",
+        "City": "Tangerang",
+        "Region": "Jawa"
+    },
+    {
+        "No": "12.",
+        "Province": "Bengkulu",
+        "City": "Bengkulu",
+        "Region": "Sumatra"
+    },
+    {
+        "No": "13.",
+        "Province": "Daerah Istimewa Yogyakarta",
+        "City": "Yogyakarta",
+        "Region": "Jawa"
+    },
+    {
+        "No": "14.",
+        "Province": "Gorontalo",
+        "City": "Gorontalo",
+        "Region": "Sulawesi"
+    },
+    {
+        "No": "15.",
+        "Province": "Jakarta",
+        "City": "Kota Administrasi Jakarta Barat",
+        "Region": "Jawa"
+    },
+    {
+        "No": "16.",
+        "Province": "Jakarta",
+        "City": "Kota Administrasi Jakarta Pusat",
+        "Region": "Jawa"
+    },
+    {
+        "No": "17.",
+        "Province": "Jakarta",
+        "City": "Kota Administrasi Jakarta Selatan",
+        "Region": "Jawa"
+    },
+    {
+        "No": "18.",
+        "Province": "Jakarta",
+        "City": "Kota Administrasi Jakarta Timur",
+        "Region": "Jawa"
+    },
+    {
+        "No": "19.",
+        "Province": "Jakarta",
+        "City": "Kota Administrasi Jakarta Utara",
+        "Region": "Jawa"
+    },
+    {
+        "No": "20.",
+        "Province": "Jambi",
+        "City": "Sungai Penuh",
+        "Region": "Sumatra"
+    },
+    {
+        "No": "21.",
+        "Province": "Jambi",
+        "City": "Jambi",
+        "Region": "Sumatra"
+    },
+    {
+        "No": "22.",
+        "Province": "Jawa Barat",
+        "City": "Bandung",
+        "Region": "Jawa"
+    },
+    {
+        "No": "23.",
+        "Province": "Jawa Barat",
+        "City": "Bekasi",
+        "Region": "Jawa"
+    },
+    {
+        "No": "24.",
+        "Province": "Jawa Barat",
+        "City": "Bogor",
+        "Region": "Jawa"
+    },
+    {
+        "No": "25.",
+        "Province": "Jawa Barat",
+        "City": "Cimahi",
+        "Region": "Jawa"
+    },
+    {
+        "No": "26.",
+        "Province": "Jawa Barat",
+        "City": "Cirebon",
+        "Region": "Jawa"
+    },
+    {
+        "No": "27.",
+        "Province": "Jawa Barat",
+        "City": "Depok",
+        "Region": "Jawa"
+    },
+    {
+        "No": "28.",
+        "Province": "Jawa Barat",
+        "City": "Sukabumi",
+        "Region": "Jawa"
+    },
+    {
+        "No": "29.",
+        "Province": "Jawa Barat",
+        "City": "Tasikmalaya",
+        "Region": "Jawa"
+    },
+    {
+        "No": "30.",
+        "Province": "Jawa Barat",
+        "City": "Banjar",
+        "Region": "Jawa"
+    },
+    {
+        "No": "31.",
+        "Province": "Jawa Tengah",
+        "City": "Magelang",
+        "Region": "Jawa"
+    },
+    {
+        "No": "32.",
+        "Province": "Jawa Tengah",
+        "City": "Pekalongan",
+        "Region": "Jawa"
+    },
+    {
+        "No": "33.",
+        "Province": "Jawa Tengah",
+        "City": "Salatiga",
+        "Region": "Jawa"
+    },
+    {
+        "No": "34.",
+        "Province": "Jawa Tengah",
+        "City": "Semarang",
+        "Region": "Jawa"
+    },
+    {
+        "No": "35.",
+        "Province": "Jawa Tengah",
+        "City": "Surakarta",
+        "Region": "Jawa"
+    },
+    {
+        "No": "36.",
+        "Province": "Jawa Tengah",
+        "City": "Tegal",
+        "Region": "Jawa"
+    },
+    {
+        "No": "37.",
+        "Province": "Jawa Timur",
+        "City": "Batu",
+        "Region": "Jawa"
+    },
+    {
+        "No": "38.",
+        "Province": "Jawa Timur",
+        "City": "Blitar",
+        "Region": "Jawa"
+    },
+    {
+        "No": "39.",
+        "Province": "Jawa Timur",
+        "City": "Kediri",
+        "Region": "Jawa"
+    },
+    {
+        "No": "40.",
+        "Province": "Jawa Timur",
+        "City": "Madiun",
+        "Region": "Jawa"
+    },
+    {
+        "No": "41.",
+        "Province": "Jawa Timur",
+        "City": "Malang",
+        "Region": "Jawa"
+    },
+    {
+        "No": "42.",
+        "Province": "Jawa Timur",
+        "City": "Mojokerto",
+        "Region": "Jawa"
+    },
+    {
+        "No": "43.",
+        "Province": "Jawa Timur",
+        "City": "Pasuruan",
+        "Region": "Jawa"
+    },
+    {
+        "No": "44.",
+        "Province": "Jawa Timur",
+        "City": "Probolinggo",
+        "Region": "Jawa"
+    },
+    {
+        "No": "45.",
+        "Province": "Jawa Timur",
+        "City": "Surabaya",
+        "Region": "Jawa"
+    },
+    {
+        "No": "46.",
+        "Province": "Kalimantan Barat",
+        "City": "Pontianak",
+        "Region": "Kalimantan"
+    },
+    {
+        "No": "47.",
+        "Province": "Kalimantan Barat",
+        "City": "Singkawang",
+        "Region": "Kalimantan"
+    },
+    {
+        "No": "48.",
+        "Province": "Kalimantan Selatan",
+        "City": "Banjarbaru",
+        "Region": "Kalimantan"
+    },
+    {
+        "No": "49.",
+        "Province": "Kalimantan Selatan",
+        "City": "Banjarmasin",
+        "Region": "Kalimantan"
+    },
+    {
+        "No": "50.",
+        "Province": "Kalimantan Tengah",
+        "City": "Palangka Raya",
+        "Region": "Kalimantan"
+    },
+    {
+        "No": "51.",
+        "Province": "Kalimantan Timur",
+        "City": "Balikpapan",
+        "Region": "Kalimantan"
+    },
+    {
+        "No": "52.",
+        "Province": "Kalimantan Timur",
+        "City": "Bontang",
+        "Region": "Kalimantan"
+    },
+    {
+        "No": "53.",
+        "Province": "Kalimantan Timur",
+        "City": "Samarinda",
+        "Region": "Kalimantan"
+    },
+    {
+        "No": "54.",
+        "Province": "Kalimantan Timur",
+        "City": "Nusantara",
+        "Region": "Kalimantan"
+    },
+    {
+        "No": "55.",
+        "Province": "Kalimantan Utara",
+        "City": "Tarakan",
+        "Region": "Kalimantan"
+    },
+    {
+        "No": "56.",
+        "Province": "Kepulauan Riau",
+        "City": "Batam",
+        "Region": "Sumatra"
+    },
+    {
+        "No": "57.",
+        "Province": "Kepulauan Riau",
+        "City": "Tanjungpinang",
+        "Region": "Sumatra"
+    },
+    {
+        "No": "58.",
+        "Province": "Lampung",
+        "City": "Bandar Lampung",
+        "Region": "Sumatra"
+    },
+    {
+        "No": "59.",
+        "Province": "Lampung",
+        "City": "Metro",
+        "Region": "Sumatra"
+    },
+    {
+        "No": "60.",
+        "Province": "Maluku Utara",
+        "City": "Ternate",
+        "Region": "Maluku dan Papua"
+    },
+    {
+        "No": "61.",
+        "Province": "Maluku Utara",
+        "City": "Tidore Kepulauan",
+        "Region": "Maluku dan Papua"
+    },
+    {
+        "No": "62.",
+        "Province": "Maluku",
+        "City": "Ambon",
+        "Region": "Maluku dan Papua"
+    },
+    {
+        "No": "63.",
+        "Province": "Maluku",
+        "City": "Tual",
+        "Region": "Maluku dan Papua"
+    },
+    {
+        "No": "64.",
+        "Province": "Nusa Tenggara Barat",
+        "City": "Bima",
+        "Region": "Bali dan Nusa Tenggara"
+    },
+    {
+        "No": "65.",
+        "Province": "Nusa Tenggara Barat",
+        "City": "Mataram",
+        "Region": "Bali dan Nusa Tenggara"
+    },
+    {
+        "No": "66.",
+        "Province": "Nusa Tenggara Timur",
+        "City": "Kupang",
+        "Region": "Bali dan Nusa Tenggara"
+    },
+    {
+        "No": "67.",
+        "Province": "Papua Barat Daya",
+        "City": "Sorong",
+        "Region": "Maluku dan Papua"
+    },
+    {
+        "No": "68.",
+        "Province": "Papua",
+        "City": "Jayapura",
+        "Region": "Maluku dan Papua"
+    },
+    {
+        "No": "69.",
+        "Province": "Riau",
+        "City": "Dumai",
+        "Region": "Sumatra"
+    },
+    {
+        "No": "70.",
+        "Province": "Riau",
+        "City": "Pekanbaru",
+        "Region": "Sumatra"
+    },
+    {
+        "No": "71.",
+        "Province": "Sulawesi Selatan",
+        "City": "Makassar",
+        "Region": "Sulawesi"
+    },
+    {
+        "No": "72.",
+        "Province": "Sulawesi Selatan",
+        "City": "Palopo",
+        "Region": "Sulawesi"
+    },
+    {
+        "No": "73.",
+        "Province": "Sulawesi Selatan",
+        "City": "Parepare",
+        "Region": "Sulawesi"
+    },
+    {
+        "No": "74.",
+        "Province": "Sulawesi Tengah",
+        "City": "Palu",
+        "Region": "Sulawesi"
+    },
+    {
+        "No": "75.",
+        "Province": "Sulawesi Tenggara",
+        "City": "Baubau",
+        "Region": "Sulawesi"
+    },
+    {
+        "No": "76.",
+        "Province": "Sulawesi Tenggara",
+        "City": "Kendari",
+        "Region": "Sulawesi"
+    },
+    {
+        "No": "77.",
+        "Province": "Sulawesi Utara",
+        "City": "Bitung",
+        "Region": "Sulawesi"
+    },
+    {
+        "No": "78.",
+        "Province": "Sulawesi Utara",
+        "City": "Kotamobagu",
+        "Region": "Sulawesi"
+    },
+    {
+        "No": "79.",
+        "Province": "Sulawesi Utara",
+        "City": "Manado",
+        "Region": "Sulawesi"
+    },
+    {
+        "No": "80.",
+        "Province": "Sulawesi Utara",
+        "City": "Tomohon",
+        "Region": "Sulawesi"
+    },
+    {
+        "No": "81.",
+        "Province": "Sumatera Barat",
+        "City": "Bukittinggi",
+        "Region": "Sumatra"
+    },
+    {
+        "No": "82.",
+        "Province": "Sumatera Barat",
+        "City": "Padang",
+        "Region": "Sumatra"
+    },
+    {
+        "No": "83.",
+        "Province": "Sumatera Barat",
+        "City": "Padang Panjang",
+        "Region": "Sumatra"
+    },
+    {
+        "No": "84.",
+        "Province": "Sumatera Barat",
+        "City": "Pariaman",
+        "Region": "Sumatra"
+    },
+    {
+        "No": "85.",
+        "Province": "Sumatera Barat",
+        "City": "Payakumbuh",
+        "Region": "Sumatra"
+    },
+    {
+        "No": "86.",
+        "Province": "Sumatera Barat",
+        "City": "Sawahlunto",
+        "Region": "Sumatra"
+    },
+    {
+        "No": "87.",
+        "Province": "Sumatera Barat",
+        "City": "Solok",
+        "Region": "Sumatra"
+    },
+    {
+        "No": "88.",
+        "Province": "Sumatera Selatan",
+        "City": "Lubuklinggau",
+        "Region": "Sumatra"
+    },
+    {
+        "No": "89.",
+        "Province": "Sumatera Selatan",
+        "City": "Pagar Alam",
+        "Region": "Sumatra"
+    },
+    {
+        "No": "90.",
+        "Province": "Sumatera Selatan",
+        "City": "Palembang",
+        "Region": "Sumatra"
+    },
+    {
+        "No": "91.",
+        "Province": "Sumatera Selatan",
+        "City": "Prabumulih",
+        "Region": "Sumatra"
+    },
+    {
+        "No": "92.",
+        "Province": "Sumatera Utara",
+        "City": "Binjai",
+        "Region": "Sumatra"
+    },
+    {
+        "No": "93.",
+        "Province": "Sumatera Utara",
+        "City": "Gunungsitoli",
+        "Region": "Sumatra"
+    },
+    {
+        "No": "94.",
+        "Province": "Sumatera Utara",
+        "City": "Medan",
+        "Region": "Sumatra"
+    },
+    {
+        "No": "95.",
+        "Province": "Sumatera Utara",
+        "City": "Padangsidimpuan",
+        "Region": "Sumatra"
+    },
+    {
+        "No": "96.",
+        "Province": "Sumatera Utara",
+        "City": "Pematangsiantar",
+        "Region": "Sumatra"
+    },
+    {
+        "No": "97.",
+        "Province": "Sumatera Utara",
+        "City": "Sibolga",
+        "Region": "Sumatra"
+    },
+    {
+        "No": "98.",
+        "Province": "Sumatera Utara",
+        "City": "Tanjungbalai",
+        "Region": "Sumatra"
+    },
+    {
+        "No": "99.",
+        "Province": "Sumatera Utara",
+        "City": "Tebing Tinggi",
+        "Region": "Sumatra[1]"
+    }
+]
